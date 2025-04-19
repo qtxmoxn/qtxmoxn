@@ -5,7 +5,7 @@
 
 ## 💻 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,discord)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
